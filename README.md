@@ -1,6 +1,6 @@
 # SuperSu - Kali Linux Kernel For Termux
 
-### Installing SuperSu
+## 💿 Installation 💿
 ```
 apt upgrade -y;apt update -y
 git clone https://github.com/Err0r-ICA/SuperSu
@@ -9,10 +9,10 @@ chmod +x *
 bash SuperSU
 ```
 
-## Screenshot 
+## 📸 Screenshot 📸
 ![Screenshot](https://i.postimg.cc/4sFdHJPL/Screenshot-20200425-142242-Termux.jpg) 
 
-### My Accounts
+### 👤 My Accounts 👤
 
 * [TELEGRAM](https://t.me/termuxxhacking)
 
